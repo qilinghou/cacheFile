@@ -1,1 +1,2 @@
-# cacheFile
+# php缓存文件类
+#
